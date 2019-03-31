@@ -20,3 +20,6 @@ Git has a mutable index called stage.
 
 Creating a new branch is quick.
 2018-3-31 08:01
+
+Creating a new branch is quick & simple.
+2018-3-31 08:22
