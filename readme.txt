@@ -29,3 +29,5 @@ Creating a new branch is quick & simple.
 
 修改readme.txt文件，并提交一个新的commit test --no-ff
 2018-3-31 09:16
+
+--issue-001--现在修复bug，需要把“Git is free software ...”改为“Git is a free software ...”
